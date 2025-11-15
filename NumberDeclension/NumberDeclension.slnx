@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="NumberDeclension.Application/NumberDeclension.Application.csproj" />
+  <Project Path="NumberDeclension.Domain/NumberDeclension.Domain.csproj" />
 </Solution>
